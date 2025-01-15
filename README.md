@@ -10,9 +10,10 @@ This project aims to provide an easy-to-use interface for users to gain insights
 
 ![PRODUCT PERFORMANCE](images/image-1.png)
 
-#### PREVIEW 
+### PREVIEW 
 
 View the dashboard preview on my NovyPro profile. 
+
 https://project.novypro.com/Tr0RvI
 
 
