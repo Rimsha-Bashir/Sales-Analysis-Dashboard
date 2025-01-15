@@ -4,11 +4,11 @@ This project aims to provide an easy-to-use interface for users to gain insights
 
 ### SALES INSIGHTS 
 
-![SALES INSIGHTS ](image.png)
+![SALES INSIGHTS ](images/image.png)
 
 ### PRODUCT PERFORMANCE 
 
-![PRODUCT PERFORMANCE](image-1.png)
+![PRODUCT PERFORMANCE](images/image-1.png)
 
 #### PREVIEW 
 
